@@ -6,3 +6,7 @@ So it's used for Feature Detection, Recommendation System and For Encoding Data.
 
 Refrence: https://probablydance.com/2016/04/30/neural-networks-are-impressively-good-at-compression/
 
+This recomender system is based on the rating of the movie by user which predect a rating from 1-5 which is mostly use in the industry like Netflix 
+So this recomender system is made on Auto Encoder, the dataset which is used is the most real dataset that is availble in the internet(MovieLens dataset).
+Refrence: https://grouplens.org/datasets/movielens/
+
